@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: 英雄連隊維基! -->
+<!-- SUBTITLE: 歡迎來到英雄連隊維基! -->
 
-# Header
+# 嗨
