@@ -3,8 +3,12 @@
 
 # 遊戲簡介
 
-# 蘇聯
-# 國防軍
-# 美軍
-# 西線最高指揮部
-# 英軍
+# 蘇聯 | Soviet
+
+# 國防軍 | Wehrmacht
+
+# 美軍 | US Forces
+
+# 西線最高指揮部 | Oberkommando West
+
+# 英軍 | British Forces
